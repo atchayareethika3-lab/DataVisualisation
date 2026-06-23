@@ -72,5 +72,3 @@ The dataset contains information related to:
 - Sales patterns vary across different vehicle categories.
 
 ---
-
-## Project Structure
